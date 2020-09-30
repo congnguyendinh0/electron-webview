@@ -1,8 +1,8 @@
 {
-  "name": "electron-webview",
-  "productName": "Electron webview",
+  "name": "netflixelectronmac",
+  "productName": "netflix electron macos",
   "version": "1.0.4",
-  "description": "A simple Electron webview application",
+  "description": "A netflix electron app",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
